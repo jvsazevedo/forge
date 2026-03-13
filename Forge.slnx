@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Forge/Forge.fsproj" />
+    <Project Path="src/Forge.Core/Forge.Core.fsproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Forge.Tests/Forge.Tests.fsproj" />
+  </Folder>
+</Solution>
